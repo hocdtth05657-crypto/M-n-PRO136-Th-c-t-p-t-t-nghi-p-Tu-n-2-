@@ -1,0 +1,7 @@
+{
+  "name": "Bản đồ Di sản Kiến trúc Đô thị & Kho Tư liệu Lịch sử",
+  "description": "Nền tảng bản đồ số hóa di sản kiến trúc đô thị Việt Nam (Hà Nội, Sài Gòn, Huế, Hội An, Đà Lạt), tích hợp bản đồ địa lý lịch sử, bản vẽ thiết kế nguyên bản, hồ sơ lưu trữ và nguồn tư liệu học thuật.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
